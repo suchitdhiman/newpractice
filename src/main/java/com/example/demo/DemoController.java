@@ -9,6 +9,6 @@ public class DemoController {
 	@ResponseBody
 	@RequestMapping("/")
 	public String  demo() {
-		return "Hello Learners Welcome to Phase 5 !!!";
+		return "Hello! I am 'suchit kumar', Welcome to Phase 5 !!!";
 	}
 }
